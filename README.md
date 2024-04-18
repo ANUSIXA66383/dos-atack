@@ -12,8 +12,5 @@ README.md
 data.xml
 Makefile
 [end]
-
-
-
-
-
+кста не все коды работают ahahahaha
+это говно, а не код)))
